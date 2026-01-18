@@ -1,0 +1,61 @@
+﻿id,name,cas_number,supplier,location,quantity,unit,expiration_date,low_stock_threshold,Delete,Edit
+1,Agarose,A9539-10G,Sigma Aldrich,Left Cabinet,1,bottles,,1,FALSE,FALSE
+2,Ammonium sulfate,11566.36,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+3,Arabinose,365181000,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+4,Asparagine,B21473.22,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+5,Boric Acid,42348-5000,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+6,Calcium Chloride,C3306-100G,Sigma Aldrich,Left Cabinet,1,bottles,,1,FALSE,FALSE
+7,Cobalt(II) chloride hexahydrate,A16346.18,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+8,Copper(II) Sulfate Pentahydrate,197722500,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+9,D (+)-Xylose,141005000,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+12,"D(+)-Sucrose, 99%",419760010,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+13,D(+)-trehalose dihydrate,182551000,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+10,D-(+)-Maltose Monohydrate,BP684-500,Fisher,Left Cabinet,1,bottles,,1,FALSE,FALSE
+11,D-(+)-Raffinose pentahydrate,83400-25G,Sigma Aldrich,Left Cabinet,1,bottles,,1,FALSE,FALSE
+14,D16-1,C6H1206,Fisher,Left Cabinet,1,bottles,,1,FALSE,FALSE
+15,Gelatin Peptone,RM020-500G,HI Media,Left Cabinet,1,bottles,,1,FALSE,FALSE
+16,Glycine,G7126-500G,Sigma Aldrich,Left Cabinet,1,bottles,,1,FALSE,FALSE
+18,Iron (II) sulfate heptahydrate,A15178.36,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+38,L(+)-Glutamic Acid,156212500,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+19,L-Alanine,A15804.22,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+20,L-Arginine,R10F001,Alfa Aesar,Left Cabinet,1,bottles,,1,FALSE,FALSE
+21,L-Aspartic Acid,A13520.30,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+22,L-Glutamic Acid,49621-250G,Sigma Aldrich,Left Cabinet,1,bottles,,1,FALSE,FALSE
+23,L-Glutamine,21051-024,Gibco,Left Cabinet,1,bottles,,1,FALSE,FALSE
+24,L-Glutathionine,J62166.06,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+25,L-Histidine,A10413.22,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+26,L-Isoleucine,166170250,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+27,L-Leucine,A12311.22,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+28,L-Lysine monohydrochloride,A16249.30,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+29,L-Methionoine,A10318.22,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+30,L-Phenylalanine,A13238.22,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+31,L-Proline,A10199.22,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+32,L-Rhamnose monohydrate (2 bottles),83650-10G,Sigma Aldrich,Left Cabinet,2,bottles,,1,FALSE,FALSE
+33,"L-Serine, 99%",132661000,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+34,L-Threonine,A16851.22,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+35,L-Tryptophan,A10230.22,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+36,L-Tyrosine (2 bottles),A11141.22,Thermo Scientific,Left Cabinet,2,bottles,,1,FALSE,FALSE
+37,L-Valine,140811000,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+41,"MOPS, 99%",A12914.22,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+39,Magnesium sulfate heptahydrate,11596.22,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+40,Methylene Blue Solution,S25430,Fisher,Left Cabinet,1,bottles,,1,FALSE,FALSE
+43,"N, N-Dimethyl-1-naphthylamine",D4011-25ML,Sigma Aldrich,Left Cabinet,1,bottles,,1,FALSE,FALSE
+44,"N,N,N,N,-Tetramethyl-p-phenylenediamine dihydrochloride",420600050,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+45,Nicotinamide,128275000,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+46,Nitrate Broth w Durham Tube,R061536,Remel,Left Cabinet,1,bottles,,1,FALSE,FALSE
+47,Phenol Red,R21250,Remel,Left Cabinet,1,bottles,,1,FALSE,FALSE
+48,PlusOne Urea,17-1319-01,GE Healthcare,Left Cabinet,1,bottles,,1,FALSE,FALSE
+50,Potassium Sulfate,424222500,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+49,Potassium nitrite,14245.22,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+51,Propylene Glycol,151957,MP Biomedicals,Left Cabinet,1,bottles,,1,FALSE,FALSE
+52,Proteose Peptone,82450-100G,Sigma Aldrich,Left Cabinet,1,bottles,,1,FALSE,FALSE
+53,Quercetin,Q4951-10G,Sigma Aldrich,Left Cabinet,1,bottles,,1,FALSE,FALSE
+54,Sodium Chloride,S271-1,Fisher,Left Cabinet,1,bottles,,1,FALSE,FALSE
+55,Sodium Hydroxide,234649,Fisher,Left Cabinet,1,bottles,,1,FALSE,FALSE
+56,Sulfanilic Acid,S0120,TCI,Left Cabinet,1,bottles,,1,FALSE,FALSE
+57,Thiamine hydrochloride,148991000,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+58,Uracil,A15570.18,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+59,Urea,BP169-500,Fisher,Left Cabinet,1,bottles,,1,FALSE,FALSE
+60,Xanthine,A11077.14,Thermo Scientific,Left Cabinet,1,bottles,,1,FALSE,FALSE
+17,hexadecyltrimethylammonium bromide,H9151-25G,Sigma Aldrich,Left Cabinet,1,bottles,,1,FALSE,FALSE
+42,myo-Inositol,I7508-50G,Sigma Aldrich,Left Cabinet,1,bottles,,1,FALSE,FALSE

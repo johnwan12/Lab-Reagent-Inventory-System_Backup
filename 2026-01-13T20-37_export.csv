@@ -1,0 +1,149 @@
+﻿id,name,cas_number,supplier,location,quantity,unit,expiration_date,low_stock_threshold,Delete,Edit
+62,3-Amino-9-Ethyl Carbazole,0291-50G,Amresco,Right Cabinet,1,bottles,,1,false,false
+63,Actinomyces Broth,M233-500G,HiMedia,Right Cabinet,1,bottles,,1,false,false
+64,"Adenine, 99%",A14906.14,Thermo Scientific,Right Cabinet,1,bottles,,1,false,false
+2,Agarose,A9539-10G,Sigma Aldrich,Left Cabinet,1,bottles,,1,false,false
+65,Agarose,A9539-100G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+66,Agarose LE,AG9001-5G,Redoxica,Right Cabinet,1,bottles,,1,false,false
+67,"Ammonium molybdate (VI) tetrahydrate, ACS reagent",423311000,Thermo Scientific,Right Cabinet,1,bottles,,1,false,false
+3,Ammonium sulfate,11566.36,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+4,Arabinose,365181000,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+68,Ascorbic acid,461,British Pharmacopoeia Commission Lab,Right Cabinet,1,bottles,,1,false,false
+5,Asparagine,B21473.22,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+69,"B-Estradiol, 99% (dry wt.), ca 3% water",L03801,Alfa Aesar,Right Cabinet,1,bottles,,1,false,false
+70,Bacto  Tryptone,211705,BD,Right Cabinet,1,bottles,,1,false,false
+71,Bacto Yeast Extract,212750,BD,Right Cabinet,1,bottles,,1,false,false
+72,Beef Extract Powder,B4888-50G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+6,Boric Acid,42348-5000,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+7,Calcium Chloride,C3306-100G,Sigma Aldrich,Left Cabinet,1,bottles,,1,false,false
+73,Carboxymethylcellulose sodium salt,C5678-500G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+74,Casman Medium Base,7123A,Acumedia,Right Cabinet,1,bottles,,1,false,false
+8,Cobalt(II) chloride hexahydrate,A16346.18,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+75,Coomassie Brilliant Blue Destaining Solution,786-499,G-Biosciences,Right Cabinet,1,bottles,,1,false,false
+76,Coomassie Brilliant Blue Solution,786-498,G-Biosciences,Right Cabinet,1,bottles,,1,false,false
+77,Coomassie Brilliant Blue Solution G-250,786-497,G-Biosciences,Right Cabinet,1,bottles,,1,false,false
+78,Copper(II) Sulfate,470300-882,Ward's Science,Right Cabinet,1,bottles,,1,false,false
+9,Copper(II) Sulfate Pentahydrate,197722500,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+79,Crystal Violet,C0775-25G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+10,D (+)-Xylose,141005000,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+13,"D(+)-Sucrose, 99%",419760010,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+14,D(+)-trehalose dihydrate,182551000,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+11,D-(+)-Maltose Monohydrate,BP684-500,Fisher,Left Cabinet,1,bottles,,1,false,false
+12,D-(+)-Raffinose pentahydrate,83400-25G,Sigma Aldrich,Left Cabinet,1,bottles,,1,false,false
+80,D-Mannitol,A14030.0B,Thermo Scientific,Right Cabinet,1,bottles,,1,false,false
+15,D16-1,C6H1206,Fisher,Left Cabinet,1,bottles,,1,false,false
+81,DEAE-Dextran hydrochloride,D9885-10G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+82,Difco Agar,214010,BD,Right Cabinet,1,bottles,,1,false,false
+83,Difco Brain Heart Infusion,237500,BD,Right Cabinet,1,bottles,,1,false,false
+84,Difco GC Medium Base,228950,Fisher,Right Cabinet,1,bottles,,1,false,false
+85,Difco YM Broth,271120,BD,Right Cabinet,1,bottles,,1,false,false
+86,"Dimethyl sulfoxide, anhydrous, 99.8%",43998,Alfa Aesar,Right Cabinet,1,bottles,,1,false,false
+87,Dipotassium phosphate,7758-11-04 00:00:00,Eisen-Golden Laboratories,Right Cabinet,1,bottles,,1,false,false
+88,EDTA,C3722,Lab Connections,Right Cabinet,1,bottles,,1,false,false
+89,Folic Acid,F8758-5G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+16,Gelatin Peptone,RM020-500G,HI Media,Left Cabinet,1,bottles,,1,false,false
+90,Glycerol,C3H8O3,Fisher,Right Cabinet,1,bottles,,1,false,false
+17,Glycine,G7126-500G,Sigma Aldrich,Left Cabinet,1,bottles,,1,false,false
+91,Guanidine hydrochloride,G4505-100G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+92,Hematoxylin Solution,GHS132-1L,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+93,Hepes Free Acid,0511-250G,Amresco,Right Cabinet,1,bottles,,1,false,false
+94,Hexadimethrine bromide,H9268-5G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+95,IGEPAL CA-630,18896-100ML,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+96,Imidazole,I5513-100G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+97,Indomethacin,I7378-5G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+19,Iron (II) sulfate heptahydrate,A15178.36,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+39,L(+)-Glutamic Acid,156212500,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+20,L-Alanine,A15804.22,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+21,L-Arginine,R10F001,Alfa Aesar,Left Cabinet,1,bottles,,1,false,false
+22,L-Aspartic Acid,A13520.30,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+98,L-Cysteine,J63745.14,Thermo Scientific,Right Cabinet,1,bottles,,1,false,false
+99,L-Cysteine hydrochloride,C1276-10G,Millipore Sigma,Right Cabinet,1,bottles,,1,false,false
+100,L-Cysteine hydrochloride monohydrate 99%,A10389.22,Thermo Scientific,Right Cabinet,1,bottles,,1,false,false
+23,L-Glutamic Acid,49621-250G,Sigma Aldrich,Left Cabinet,1,bottles,,1,false,false
+24,L-Glutamine,21051-024,Gibco,Left Cabinet,1,bottles,,1,false,false
+25,L-Glutathionine,J62166.06,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+26,L-Histidine,A10413.22,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+101,L-Homoarginine hydrochloride,10190354,Alfa Aesar,Right Cabinet,1,bottles,,1,false,false
+27,L-Isoleucine,166170250,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+28,L-Leucine,A12311.22,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+29,L-Lysine monohydrochloride,A16249.30,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+30,L-Methionoine,A10318.22,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+31,L-Phenylalanine,A13238.22,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+32,L-Proline,A10199.22,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+33,L-Rhamnose monohydrate (2 bottles),83650-10G,Sigma Aldrich,Left Cabinet,2,bottles,,1,false,false
+34,"L-Serine, 99%",132661000,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+35,L-Threonine,A16851.22,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+36,L-Tryptophan,A10230.22,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+37,L-Tyrosine (2 bottles),A11141.22,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+38,L-Valine,140811000,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+102,LB Broth,1003712125,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+42,"MOPS, 99%",A12914.22,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+103,Magnesium chloride hexahydrate,M2670-100G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+40,Magnesium sulfate heptahydrate,11596.22,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+104,Methyl a-D-glucopyranoside,M9376-500G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+41,Methylene Blue Solution,S25430,Fisher,Left Cabinet,1,bottles,,1,false,false
+105,Monosodium Glutamate,1446600,USP,Right Cabinet,1,bottles,,1,false,false
+44,"N, N-Dimethyl-1-naphthylamine",D4011-25ML,Sigma Aldrich,Left Cabinet,1,bottles,,1,false,false
+45,"N,N,N,N,-Tetramethyl-p-phenylenediamine dihydrochloride",420600050,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+46,Nicotinamide,128275000,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+47,Nitrate Broth w Durham Tube,R061536,Remel,Left Cabinet,1,bottles,,1,false,false
+106,Nitrilotriacetic acid,415742500,Thermo Scientific,Right Cabinet,1,bottles,,1,false,false
+107,Nonfat Dry Milk,9999S,Cell Signaling,Right Cabinet,1,bottles,,1,false,false
+111,PEG 6000,528877-1KG,EMD,Right Cabinet,1,bottles,,1,false,false
+112,PIPES,P1851-25G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+109,Paraformaldehyde 95%,158127-500G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+110,Paraformaldehyde 97%,A11313,Alfa Aesar,Right Cabinet,1,bottles,,1,false,false
+48,Phenol Red,R21250,Remel,Left Cabinet,1,bottles,,1,false,false
+49,PlusOne Urea,17-1319-01,GE Healthcare,Left Cabinet,1,bottles,,1,false,false
+113,Potassium Acetate 99%,A16321.36,Thermo Scientific,Right Cabinet,1,bottles,,1,false,false
+114,Potassium Chloride,P5405-250G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+116,Potassium Phosphate Dibasic,BP363-500,Fisher,Right Cabinet,1,bottles,,1,false,false
+117,Potassium Phosphate Monobasic,KH2PO4,Fisher,Right Cabinet,1,bottles,,1,false,false
+51,Potassium Sulfate,424222500,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+115,Potassium iodide,A12704.18,Thermo Scientific,Right Cabinet,1,bottles,,1,false,false
+50,Potassium nitrite,14245.22,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+118,Potato Glucose Agar,70139-100G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+119,Progesterone,P0130-25G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+52,Propylene Glycol,151957,MP Biomedicals,Left Cabinet,1,bottles,,1,false,false
+53,Proteose Peptone,82450-100G,Sigma Aldrich,Left Cabinet,1,bottles,,1,false,false
+120,Proteose-Peptone,82450-100G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+121,Proteose-Peptone,RM005-100G,HiMedia,Right Cabinet,1,bottles,,1,false,false
+122,Pyridoxine hydrochloride,A12041.14,Thermo Scientific,Right Cabinet,1,bottles,,1,false,false
+123,QIAGEN Protease,130181006,nan,Right Cabinet,1,bottles,,1,false,false
+124,QiAzol Lysis Reagent,44503619,QIAGEN Sciences,Right Cabinet,1,bottles,,1,false,false
+54,Quercetin,Q4951-10G,Sigma Aldrich,Left Cabinet,1,bottles,,1,false,false
+125,Reinforced clostridial medium (RCM),VM829211 818,nan,Right Cabinet,1,bottles,,1,false,false
+126,"Riboflavin, 98%",A11764.22,Thermo Scientific,Right Cabinet,1,bottles,,1,false,false
+127,Saponin Practical Grade,102855,MP Biomedicals,Right Cabinet,1,bottles,,1,false,false
+128,Silica Gel,MKCT6918,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+129,Sodium Azide,71289,Fluka,Right Cabinet,1,bottles,,1,false,false
+130,Sodium Bicarbonate,SX0322-5,EMD,Right Cabinet,1,bottles,,1,false,false
+131,Sodium Carbonate Anhydrous,S495-500,Fisher,Right Cabinet,1,bottles,,1,false,false
+55,Sodium Chloride,S271-1,Fisher,Left Cabinet,1,bottles,,1,false,false
+132,Sodium Chloride,S9888-1KG,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+133,Sodium Citrate Tribasic Dihydrate,S4641-1KG,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+56,Sodium Hydroxide,234649,Fisher,Left Cabinet,1,bottles,,1,false,false
+135,Sodium Orthovanadate,S6508-10G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+134,Sodium hydroxide,MKCW6546,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+136,Sodium phosphate dibasic,S324-500G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+137,Sodium phosphate monobasic (2 bottles),S3139-500G,sigma aldrich,Right Cabinet,2,bottles,,1,false,false
+138,Sprinkote Lubricant,306812,Beckman Coulter,Right Cabinet,1,bottles,,1,false,false
+139,Storage Solution for pH and ORP Electrodes,4657,Milwaukee,Right Cabinet,1,bottles,,1,false,false
+57,Sulfanilic Acid,S0120,TCI,Left Cabinet,1,bottles,,1,false,false
+140,Taurine,102831999,Millipore Sigma,Right Cabinet,1,bottles,,1,false,false
+141,Testosterone C-III,T1500-1G,sigma aldrich,Right Cabinet,1,bottles,,1,false,false
+58,Thiamine hydrochloride,148991000,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+142,"Tricine, 98%",A14695.14,Thermo Scientific,Right Cabinet,1,bottles,,1,false,false
+144,Tris Base,217677,Fisher,Right Cabinet,1,bottles,,1,false,false
+145,Tris Base (in conical),nan,nan,Right Cabinet,1,bottles,,1,false,false
+146,Tris GLY SDS Running Buffer,ER28-S,Sepra Buff,Right Cabinet,1,bottles,,1,false,false
+143,Tris [1M],R002,G-Biosciences,Right Cabinet,1,bottles,,1,false,false
+147,Tryptic Soy Broth,22092-500G,Millipore Sigma,Right Cabinet,1,bottles,,1,false,false
+148,Tween 20 (3 bottles),BP337-100,Fisher,Right Cabinet,3,bottles,,1,false,false
+59,Uracil,A15570.18,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+60,Urea,BP169-500,Fisher,Left Cabinet,1,bottles,,1,false,false
+61,Xanthine,A11077.14,Thermo Scientific,Left Cabinet,1,bottles,,1,false,false
+149,"Zinc sulfate heptahydrate, 99%, ACS Reagent",424605000,Thermo Scientific,Right Cabinet,1,bottles,,1,false,false
+18,hexadecyltrimethylammonium bromide,H9151-25G,Sigma Aldrich,Left Cabinet,1,bottles,,1,false,false
+43,myo-Inositol,I7508-50G,Sigma Aldrich,Left Cabinet,1,bottles,,1,false,false
+108,p-Aminobenzoic Acid,194619,MP Biomedicals,Right Cabinet,1,bottles,,1,false,false
